@@ -1,5 +1,6 @@
+# zama0528 
 echo "Commit 1 line" >> README.md
-git add README.md
+git add README点md
 GIT_AUTHOR_DATE="2025-06-10T06:01:01" GIT_COMMITTER_DATE="2025-06-10T06:01:01" git commit -m "Commit 1"
 
 echo "Commit 2 line" >> README.md
@@ -56,4 +57,4 @@ GIT_AUTHOR_DATE="2025-06-10T08:10:14" GIT_COMMITTER_DATE="2025-06-10T08:10:14" g
 
 echo "Commit 15 line" >> README.md
 git add README.md
-GIT_AUTHOR_DATE="2025-06-10T08:20:15" GIT_COMMITTER_DATE="2025-06-10T08:20:15" git commit -m "Commit 15"# zama0528
+GIT_AUTHOR_DATE="2025-06-10T08:20:15" GIT_COMMITTER_DATE="2025-06-10T08:20:15" git commit -m "Commit 15"
